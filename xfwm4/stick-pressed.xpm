@@ -4,7 +4,7 @@ static char * stick_pressed_xpm[] = {
 " 	c None",
 ".	c #939393",
 "+	c #FFFFFF",
-"@	c #CECECE",
+"@	c #DEDEDE s active_color_2",
 "..........................",
 "++++++++++++++++++++++++++",
 "@@@@@@@@@@@@@@@@@@@@@@@@@@",
