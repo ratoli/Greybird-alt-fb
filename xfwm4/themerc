@@ -1,8 +1,10 @@
-# Greybird-alternative full button version
-# Window-decoration for the Greybird-Xfce-theme by Simon Steinbeiß
+# Name: Greybird-alternative full-button
 # Author: Ramon Kaes <ramon.kaes@gmail.com>
-# License: GPLv2 or later and CC-BY-SA 3.0 or later
-# Date: September 2015
+# Summary: Alternative xfwm4 window decoration for the Greybird desktop suite
+# Author: Ramon Kaes <ramon.kaes@gmail.com>
+# License: GPLv2 or later and CC-BY-SA 3.0 or later.
+# Date: Februar 2015
+# Last modified: September 2015
 
 active_text_color=#686868
 active_text_shadow_color=#ececec
@@ -10,7 +12,6 @@ inactive_text_color=#bbbbbb
 inactive_text_shadow_color=#ececec
 button_offset=4
 button_spacing=0
-# button_layout=OTS|HMC
 full_width_title=true
 maximized_offset=3
 shadow_delta_height=2
