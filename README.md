@@ -14,4 +14,4 @@ This theme brings the Greybird-GTK buttons into the window decoration and create
 The symbols are a mix of well-known icons from different GUIs (Xfce, Gnome, ChromeOS).
 
 
-If you prefer the original Greybird symbols, then take a look at https://github.com/shimmerproject/Greybird/tree/master/xfwm4-a11y
+This theme will be continued at shimmerproject/Greybird: https://github.com/shimmerproject/Greybird/tree/master/xfwm4-a11y
